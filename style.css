@@ -4,11 +4,9 @@ body{
     font-family: 'Georama', sans-serif;
 }
 h1,h2,h3,h4,h5,h6,p{
-    color: rgb(82, 82, 82);
+    color: rgb(83, 83, 83);
 }
-/* .custom-margin{
-    margin-top: 0%;
-} */
+
 .bg-custom{
     background: linear-gradient(45deg,rgb(187, 0, 0),rgb(170, 139, 1));
 }
