@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama&display=swap');
+body{
+    min-height: 100vh;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    font-family: 'Georama', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p{
+    color: rgb(82, 82, 82);
+}
+/* .custom-margin{
+    margin-top: 0%;
+} */
+.bg-custom{
+    background: linear-gradient(45deg,rgb(187, 0, 0),rgb(170, 139, 1));
+}
+.custom-height-width{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+}
